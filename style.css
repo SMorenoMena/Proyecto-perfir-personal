@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 /* Configuración general */
 * {
@@ -165,3 +166,11 @@ body > a:hover {
         padding: 10px 5px;
     }
 }
+=======
+.table-container {
+    border: 1px solid #000000;
+}
+.table-container  th,td {
+    border: 1px solid #000000;
+}
+>>>>>>> a54283975b07e0dcd3305d190bfa4a0e3d0f4d09
